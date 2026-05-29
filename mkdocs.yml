@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: New vACC Documentation Site
+site_url: https://docs.newvacc.org
+theme:
+  name: material
+  features:
+    - navigation.instant
