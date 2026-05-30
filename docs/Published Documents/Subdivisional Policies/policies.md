@@ -1,4 +1,4 @@
 ---
-title: policies
+title: Policies
 ---
 s
