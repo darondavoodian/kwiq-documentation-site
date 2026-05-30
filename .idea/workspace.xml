@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c3df023-3a80-48c2-89c5-d5afa4deb3ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Enroute/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKAS - Ali Al Salem AB/.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKAS - Ali Al Salem AB/General Information.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/General Information.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/Kuwait Approach.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/Kuwait Delivery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/Kuwait Ground.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/Kuwait Tower.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/img/AOR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/img/FIN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/img/KuwaitCTR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/img/REST.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/img/SAIR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/img/TaxiRoutes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Aerodrome/OKKK - Kuwait/img/TaxiRoutes16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Enroute/.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Enroute/K.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Enroute/KU.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/Enroute/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Published Documents/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +87,7 @@
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/GitHub/vacc-documentation-site/docs/Baghdad FIR/Aerodrome/ORBI - Baghdad",
+    "last_opened_file_path": "C:/GitHub/vacc-documentation-site/docs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,18 +99,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\vacc-documentation-site\docs" />
+      <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\Enroute" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR\Aerodrome\ORBI - Baghdad" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR\Enroute" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR\Aerodrome" />
-      <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\OKAS - Ali Al Salem AB" />
-      <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\Kuwait (OKKK)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\Aerodrome" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR\Aerodrome" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\OKKK - Kuwait" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\Kuwait (OKKK-KWI)" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR" />
-      <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -109,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1780063528279</updated>
       <workItem from="1780063529369" duration="13841000" />
-      <workItem from="1780089791899" duration="8583000" />
+      <workItem from="1780089791899" duration="8895000" />
     </task>
     <servers />
   </component>
