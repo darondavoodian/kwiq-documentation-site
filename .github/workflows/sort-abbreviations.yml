@@ -1,0 +1,54 @@
+name: Sort Abbreviations
+
+on:
+  push:
+    paths:
+      - 'includes/abbreviations.md'
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sort abbreviations alphabetically
+        run: |
+          python3 - <<'EOF'
+          import re
+
+          path = "includes/abbreviations.md"
+
+          with open(path, "r") as f:
+              content = f.read()
+
+          lines = content.splitlines()
+
+          # Separate abbreviation lines from any other content (blank lines, comments)
+          abbr_lines = [l for l in lines if re.match(r'^\*\[', l)]
+          other_lines = [l for l in lines if not re.match(r'^\*\[', l)]
+
+          # Sort by the abbreviation key (case-insensitive)
+          abbr_lines.sort(key=lambda l: re.match(r'^\*\[(.+?)\]', l).group(1).lower())
+
+          sorted_content = "\n".join(abbr_lines) + "\n"
+
+          with open(path, "w") as f:
+              f.write(sorted_content)
+
+          print("Sorted abbreviations:")
+          print(sorted_content)
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" || (
+            git add includes/abbreviations.md
+            git commit -m "chore: sort abbreviations alphabetically"
+            git push
+          )
