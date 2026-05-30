@@ -2,7 +2,7 @@
 title: Audio for VATSIM - Guide
 ---
 
-**Download Link:** [AFV Standalone Client](https://audio.vatsim.net/downloads/standalone)
+**Download Link:** [AFV Standalone Client](https://audio.vatsim.net/downloads/standalone "Direct download link")
 
 !!! warning
 
@@ -41,7 +41,7 @@ Audio for VATSIM (AFV) is VATSIM’s voice communication system that provides re
 
 ## Cross-coupling a frequency
 
-Cross-coupling allows transmissions, on more than 1 tranceiver to be re-emitted by other transceivers. See '[What is XC and XCA?](https://github.com/pierr3/TrackAudio#what-is-xc-and-xca)' for more.
+Cross-coupling allows transmissions, on more than 1 tranceiver to be re-emitted by other transceivers. See '[What is XC and XCA?](https://github.com/pierr3/TrackAudio#what-is-xc-and-xca "Opens in new tab"){target="_blank"} for more.
 
 - To cross-couple a frequency, click on the 'XC' button next to frequencies you wish to cross-couple. You **must click the 'XC' button for all concerned frequencies.**
 
@@ -64,4 +64,4 @@ To enable this, click on the ↑ button on the top of the client.
 
 ![AFVGuide-5.png](../img/AFVGuide-5.png)
 
-Still having issues with TrackAudio? Feel free to ask for help in one of our channels in the Gulf vACC Discord server which can be found in the [VATSIM Community Hub](https://community.vatsim.net/).
+Still having issues with TrackAudio? Feel free to ask for help in one of our channels in the Gulf vACC Discord server which can be found in the [VATSIM Community Hub](https://community.vatsim.net/ "Opens in new tab"){target="_blank"}.

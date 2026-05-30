@@ -8,3 +8,4 @@ title: EuroScope Setup
 
 Before starting, ensure that you have the following software:
 
+- **EuroScope:** Gulf vACC recommend 
