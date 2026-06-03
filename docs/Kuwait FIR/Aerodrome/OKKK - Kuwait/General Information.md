@@ -1,5 +1,5 @@
 ---
-title: "General Information"
+title: "GEN - General Information"
 ---
 
 # General Information

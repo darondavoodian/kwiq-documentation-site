@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c3df023-3a80-48c2-89c5-d5afa4deb3ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Controller Guidance/Software/EuroScope Setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Controller Guidance/Software/EuroScope Setup.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overrides/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/overrides/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/.nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/.nav.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Approach.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Approach.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Delivery.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Delivery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Ground.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Ground.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Tower.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Tower.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
