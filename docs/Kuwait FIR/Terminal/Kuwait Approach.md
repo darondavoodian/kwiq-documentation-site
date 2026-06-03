@@ -1,5 +1,5 @@
 ---
-title: "APP - Kuwait Approach"
+title: "OKKK - Kuwait Approach"
 ---
 
 # Kuwait Approach [OKKK_APP]
