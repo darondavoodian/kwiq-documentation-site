@@ -1,5 +1,21 @@
----
-title: "BN - Baghdad North Low"
----
+# Baghdad North Lower (BN)
 
-s
+## Callsign
+Baghdad Control
+
+## Login
+TBC
+
+## Frequency
+132.875 MHz
+
+## Overview
+
+Baghdad North Lower provides ATS services within the northern portion of the Baghdad FIR.
+
+## Adjacent Sectors
+
+- BNU
+- BS
+- Ankara FIR
+- Tehran FIR
