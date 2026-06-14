@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c3df023-3a80-48c2-89c5-d5afa4deb3ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/Baghdad Control.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.nav.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/.nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/.nav.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Approach.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Approach.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Delivery.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Delivery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Ground.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Ground.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Tower.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Aerodrome/OKKK - Kuwait/Kuwait Tower.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/.nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/.nav.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/BNU.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/BNU.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/BSU.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/BSU.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/img/All.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/img/All.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/img/North.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/img/North.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/img/South.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/img/South.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Enroute/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Terminal/.nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Terminal/.nav.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/Terminal/General Procedures.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Baghdad FIR/Terminal/Baghdad Approach.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Baghdad FIR/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/.nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/.nav.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Kuwait FIR/Enroute/.nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Kuwait FIR/Enroute/.nav.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +65,69 @@
     &quot;accountId&quot;: &quot;fd1c4420-58ee-47a8-8881-116068b2a69b&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000676322982476" />
+      <entry key="MS500" value="1.2322901697893185" />
+      <entry key="S2" value="1.7052675577202896" />
+      <entry key="S5" value="2.2521866775983193" />
+      <entry key="S10" value="3.488935432190664" />
+      <entry key="S30" value="6.460090894377366" />
+      <entry key="S60" value="7.950149330711344" />
+      <entry key="M2" value="8.892348917365297" />
+      <entry key="M5" value="9.559705887379215" />
+      <entry key="M10" value="11.32174125511568" />
+      <entry key="M15" value="16.13802051177759" />
+      <entry key="M30" value="35.54229838283992" />
+      <entry key="H1" value="61.78220579466676" />
+      <entry key="H2" value="83.72893073308255" />
+      <entry key="H4" value="97.98303367754255" />
+      <entry key="D1" value="111.95033713195515" />
+      <entry key="W1" value="114.55879754933915" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.96658510129501" />
+      <entry key="MS500" value="1.2234585432035279" />
+      <entry key="S2" value="1.702073800446256" />
+      <entry key="S5" value="2.2505173391750004" />
+      <entry key="S10" value="3.4877096385312423" />
+      <entry key="S30" value="6.459381760068495" />
+      <entry key="S60" value="7.949720205559763" />
+      <entry key="M2" value="8.892110833012218" />
+      <entry key="M5" value="9.559603930124242" />
+      <entry key="M10" value="11.321679725115164" />
+      <entry key="M15" value="16.137960067144487" />
+      <entry key="M30" value="35.54222927220656" />
+      <entry key="H1" value="61.78214507241462" />
+      <entry key="H2" value="83.72888945733854" />
+      <entry key="H4" value="97.98300949988298" />
+      <entry key="D1" value="111.95033252472311" />
+      <entry key="W1" value="114.55879687575921" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -64,24 +137,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/vacc-documentation-site/docs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/GitHub/vacc-documentation-site/docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\GitHub\vacc-documentation-site\docs" />
@@ -91,11 +165,11 @@
       <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR\Aerodrome" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\kwiq-documentation-site\docs\Baghdad FIR\Enroute\img" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\Aerodrome" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR\Aerodrome" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\OKKK - Kuwait" />
       <recent name="C:\GitHub\vacc-documentation-site\docs\Kuwait FIR\Kuwait (OKKK-KWI)" />
-      <recent name="C:\GitHub\vacc-documentation-site\docs\Baghdad FIR" />
     </key>
   </component>
   <component name="SharedIndexes">
