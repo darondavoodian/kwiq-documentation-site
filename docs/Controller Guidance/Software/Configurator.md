@@ -17,4 +17,4 @@ After running the configurator, users will see the configuration options availab
 | Initials | Your observing initials |
 | CPDLC | Your Hoppies logon code |
 
-After running this the configurator, the script will re-arrange all the .prf's into the relevant folders.
+These options will be used, and added to the .prf files so that you do not need to manually input logon details each time. The script will also re-arrange all the .prf's into the relevant folders.
