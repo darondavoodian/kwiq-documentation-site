@@ -1,0 +1,20 @@
+---
+title: Configurator
+---
+
+Within the sectorfiles, the Kuwait & Iraq vACC provide a configurator within the sectorfiles.
+
+The configurator can be located in `ORBB\Plugins\Configurator\Configurator.exe`.
+
+After running the configurator, users will see the configuration options available. These include:
+
+| Option | Expected Value |
+| ------ |----------------|
+| Name | Logon Name |
+| Rating | VATSIM Controller Rating |
+| CID | VATSIM CID | 
+| Password | VATSIM Password |
+| Initials | Your observing initials |
+| CPDLC | Your Hoppies logon code |
+
+After running this the configurator, the script will re-arrange all the .prf's into the relevant folders.
