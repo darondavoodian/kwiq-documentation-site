@@ -4,7 +4,7 @@ title: Configurator
 
 Within the sectorfiles, the Kuwait & Iraq vACC provide a configurator within the sectorfiles.
 
-The configurator can be located in `ORBB\Plugins\Configurator\Configurator.exe`.
+The configurator can be located in `\Plugins\Configurator\Configurator.exe`.
 
 After running the configurator, users will see the configuration options available. These include:
 
