@@ -2,4 +2,5 @@
 title: Letters of Agreements
 ---
 
-To be developed.
+!!! Warning "🛠️ In development"
+    Not yet developed. Check back later!

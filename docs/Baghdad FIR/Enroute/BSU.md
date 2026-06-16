@@ -3,3 +3,6 @@ title: "BSU - Baghdad South High"
 ---
 
 ![South.png](img/South.png)
+
+!!! Warning "🛠️ In development"
+    The rest of this page is not yet developed. Check back later!
