@@ -241,15 +241,15 @@ Due to the airspace structure at Baghdad, all departures shall be coordinated wi
 
 Next coordination is **not** required to Baghdad **TMA** for aircraft that are:
 
-- Departing from a runway nominated on the ATIS;
-- Assigned the standard assignable level; and
-- Assigned a procedural SID; or
+- Departing from a runway nominated on the ATIS
+- Assigned the standard assignable level and
+- Assigned a procedural SID or
 - Assigned a standard assignable heading.
 
 Next coordination is required for:
 
-- Visual departures;
-- All departures not on a standard assignable heading; and
+- Visual departures
+- All departures not on a standard assignable heading and
 - The next departure from that runway after a go-around.
 
 ### 4.2 Between TWR and SMC

@@ -1,5 +1,5 @@
 ---
-title: "Baghdad Ground"
+title: "GND - Baghdad Ground"
 toc_min_heading_level: 2
 toc_max_heading_level: 6
 ---
@@ -9,7 +9,6 @@ toc_max_heading_level: 6
 | **Revision** | **Effective Date** | **Notes**           |
 |--------------|--------------------|---------------------|
 | Version 1    | 20JUN26            | Initial Publication |
-| Version 2    | 20JUN26            | Added DEL and VFR procedures |
 
 ----
 
@@ -204,15 +203,15 @@ Due to the airspace structure at Baghdad, all departures shall be coordinated wi
 
 Next coordination is **not** required to Baghdad **TMA** for aircraft that are:
 
-- Departing from a runway nominated on the ATIS;
-- Assigned the standard assignable level; and
-- Assigned a procedural SID; or
+- Departing from a runway nominated on the ATIS
+- Assigned the standard assignable level and
+- Assigned a procedural SID or
 - Assigned a standard assignable heading.
 
 Next coordination is required for:
 
-- Visual departures;
-- All departures not on a standard assignable heading; and
+- Visual departures
+- All departures not on a standard assignable heading and
 - The next departure from that runway after a go-around.
 
 #### 3.1.1 Standard Assignable Levels
@@ -250,9 +249,9 @@ The Baghdad **FMP** position shall only be activated during major events or when
 
 During events, Baghdad **FMP** shall be in charge of:
 
-- Ensuring event traffic pushes and departs on time according to event ETOT;
-- Ensuring non-event traffic is coordinated and provided with a proper departure slot;
-- Assisting Baghdad **TWR** with checking and validating flight plans; and
+- Ensuring event traffic pushes and departs on time according to event ETOT
+- Ensuring non-event traffic is coordinated and provided with a proper departure slot
+- Assisting Baghdad **TWR** with checking and validating flight plans and
 - Assisting Baghdad **SMC** with pushback time slots.
 
 The responsibilities of Baghdad **FMP** may be delegated to Baghdad **TWR** when **SMC** workload is high but no separate **FMP** controller is available.
