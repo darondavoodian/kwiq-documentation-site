@@ -30,21 +30,20 @@ Published runway dimensions are used where separate declared-distance breakdowns
 ## Air Traffic Services
 **Al-Najaf International Airport (ORNI/NJF)** is a fully controlled airport.
 
-Airspaces
-
 |         Airspace Type         |   Airspace    | Class | Vertical Limits | Controller |
 |:-----------------------------:|:-------------:|:-----:|:---------------:|------------|
-|        **Control Zone**       | Al-Najaf CTR  |   D   | SFC - 4000ft    | ORNI_TWR   |
-|        **Control Area**       | Ali 1 TMA     |   D   | 1800ft - FL235  | KIR_APP    |
-|        **Control Area**       | Ali 2 TMA     |   D   | 3500ft - FL235  | KIR_APP    |
-|        **Control Area**       | Ali 3 TMA     |   D   | 11500ft - FL235 | KIR_APP    |
-|        **Control Area**       | Ali 4 TMA     |   D   | 3500ft - FL235  | KIR_APP    |
-|        **Control Area**       | Ali 5 TMA     |   D   | 1800ft - 5000ft | KIR_APP    |
+|        **CTR**       | Al-Najaf CTR  |   D   | SFC - 4000ft    | ORNI_TWR   |
+|        **TMA**       | Ali TMA 1     |   D   | 1000ft - FL235  | ALI_APP    |
+|        **TMA**       | Ali TMA 2     |   D   | 3500ft - FL235  | ALI_APP    |
+|        **TMA**       | Ali TMA 3     |   D   | 11500ft - FL235 | ALI_APP    |
+|        **TMA**       | Ali TMA 4     |   D   | 3500ft - FL235  | ALI_APP    |
+|        **TMA**       | Ali TMA 5     |   D   | 1000ft - 5000ft | ALI_APP    |
+
 ## ATS Callsigns
 
 |  **Radio Callsign**     | **Logon Callsign** | **Abbreviation** | **Frequency (MHz)** |
 |:-----------------------:|:------------------:|:----------------:|:-------------------:|
 |   **Al-Najaf ATIS**     |     ORNI_ATIS      |       ATIS       |       123.900       |
-|  **Al-Najaf Ground**    |      ORNI_GND      |        GMC       |       121.700       |
+|  **Najaf Ground**    |      ORNI_GND      |        SMC       |       121.700       |
 |   **Al-Najaf Tower**    |      ORNI_TWR      |        TWR       |       119.100       |
 | **Baghdad Approach**    |      ALI_APP       |        APP       |       120.200       |

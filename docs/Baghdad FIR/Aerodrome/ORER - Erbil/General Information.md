@@ -30,20 +30,18 @@ Published runway dimensions are used where separate declared-distance breakdowns
 ## Air Traffic Services
 **Erbil International Airport (ORER/EBL)** is a fully controlled airport and permits IFR and VFR traffic.
 
-Airspaces
-
 |         Airspace Type         |   Airspace  | Class | Vertical Limits | Controller |
 |:-----------------------------:|:-----------:|:-----:|:---------------:|------------|
-|        **Control Zone**       | Erbil CTR   |   D   | SFC - 6000ft    | ORER_TWR   |
-|        **Control Area**       | Kirkuk TMA 1 |   D   | 3000ft - FL235 | KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 2 |   D   | 7500ft - FL235 | KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 3 |   D   | 5000ft - FL235 | KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 4 |   D   | 11000ft - FL235| KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 5 |   D   | 5000ft - FL235 | KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 6 |   D   | 14000ft - FL235| KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 7 |   D   | 12500ft - FL235| KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 8 |   D   | FL160 - FL235  | KIR_APP    |
-|        **Control Area**       | Kirkuk TMA 9 |   D   | 3500ft - 5000ft| KIR_APP    |
+|        **CTR**       | Erbil CTR   |   D   | SFC - 6000ft    | ORER_TWR   |
+|        **TMA**       | Kirkuk TMA 1 |   D   | 3000ft - FL235 | KIR_APP    |
+|        **TMA**       | Kirkuk TMA 2 |   D   | 7500ft - FL235 | KIR_APP    |
+|        **TMA**       | Kirkuk TMA 3 |   D   | 5000ft - FL235 | KIR_APP    |
+|        **TMA**       | Kirkuk TMA 4 |   D   | 11000ft - FL235| KIR_APP    |
+|        **TMA**       | Kirkuk TMA 5 |   D   | 5000ft - FL235 | KIR_APP    |
+|        **TMA**       | Kirkuk TMA 6 |   D   | 14000ft - FL235| KIR_APP    |
+|        **TMA**       | Kirkuk TMA 7 |   D   | 12500ft - FL235| KIR_APP    |
+|        **TMA**       | Kirkuk TMA 8 |   D   | FL160 - FL235  | KIR_APP    |
+|        **TMA**       | Kirkuk TMA 9 |   D   | 3500ft - 5000ft| KIR_APP    |
 
 
 ## ATS Callsigns
